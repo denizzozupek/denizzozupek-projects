@@ -1,9 +1,3 @@
-Özür dilerim, doğru adı kullanmadım. Düzeltiyorum!
-
-İşte düzenlenmiş **README.md**:
-
----
-
 # Deniz Eren Özüpek's Python Projects
 
 Welcome to my collection of Python projects! This repository is a showcase of my growth and progress as I continue to develop my skills in Python programming. Each project is unique, with different challenges and learning experiences. You will find simple to advanced Python projects, including games, algorithms, and much more.
@@ -29,6 +23,4 @@ I’m Deniz Eren Özüpek, a student and an aspiring Python developer. I’m pas
 
 If you'd like to contribute to my projects, feel free to fork the repository and submit a pull request. I appreciate any feedback, suggestions, or improvements.
 
----
 
-Bu şekilde, projelerinizi tanıtan ve sizin gelişiminizi vurgulayan bir README oldu! Başka eklemek ya da değiştirmek istediğiniz bir şey var mı?
