@@ -15,7 +15,8 @@ I’m Deniz Eren Özüpek, a student and an aspiring Python developer. I’m pas
 
 ## 💻 Projects
 
-- **Word Guessing Game**: A simple Python game where you guess the word by entering letters. It helps improve logical thinking and string manipulation skills.
+- [""Word Guessing Game""](https://github.com/denizzozupek/denizzozupek-projects/blob/main/Word_Guessing_Game.py)
+: A simple Python game where you guess the word by entering letters. It helps improve logical thinking and string manipulation skills.
 
 *Each project is aimed at improving my programming skills, so expect updates and improvements over time.*
 
