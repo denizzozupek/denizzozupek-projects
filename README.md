@@ -24,8 +24,6 @@ I’m Deniz Eren Özüpek, a student and an aspiring Python developer. I’m pas
 : A simple Python game where you play Rock, Paper, Scissors against the computer. The game follows the standard rules
 It helps improve decision-making and control flow logic in programming.
 
-You can find the source code for the game [here](https://github.com/denizzozupek/denizzozupek-projects/blob/main/Rock_Paper_Scissors.py).
-
 
 *Each project is aimed at improving my programming skills, so expect updates and improvements over time.*
 
