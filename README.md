@@ -20,7 +20,7 @@ I’m Deniz Eren Özüpek, a student and an aspiring Python developer. I’m pas
 
 
 
--[*Rock Paper Scissors Game*](https://github.com/denizzozupek/denizzozupek-projects/blob/main/Rock_Paper_Scissors.py).
+- [*Rock Paper Scissors Game*](https://github.com/denizzozupek/denizzozupek-projects/blob/main/Rock_Paper_Scissors.py).
 A simple Python game where you play Rock, Paper, Scissors against the computer. The game follows the standard rules
 It helps improve decision-making and control flow logic in programming.
 
