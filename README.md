@@ -18,6 +18,15 @@ I’m Deniz Eren Özüpek, a student and an aspiring Python developer. I’m pas
 - [*Word Guessing Game*](https://github.com/denizzozupek/denizzozupek-projects/blob/main/Word_Guessing_Game.py)
 : A simple Python game where you guess the word by entering letters. It helps improve logical thinking and string manipulation skills.
 
+
+
+-[*Rock Paper Scissors Game*](https://github.com/denizzozupek/denizzozupek-projects/blob/main/Rock_Paper_Scissors.py).
+A simple Python game where you play Rock, Paper, Scissors against the computer. The game follows the standard rules
+It helps improve decision-making and control flow logic in programming.
+
+You can find the source code for the game [here](https://github.com/denizzozupek/denizzozupek-projects/blob/main/Rock_Paper_Scissors.py).
+
+
 *Each project is aimed at improving my programming skills, so expect updates and improvements over time.*
 
 ## 📝 How to Contribute
