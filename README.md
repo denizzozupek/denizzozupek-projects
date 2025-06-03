@@ -11,27 +11,30 @@ I’m Deniz Eren Özüpek, a student and an aspiring Python developer. I’m pas
 - Python
 - Git
 - GitHub
-- Other libraries (if applicable, you can mention here like Pygame, numpy, etc.)
+- Other libraries (if applicable, like Pygame)
 
 ## 💻 Projects
 
-- [*Word Guessing Game*](https://github.com/denizzozupek/denizzozupek-projects/blob/main/Word_Guessing_Game.py)
-: A simple Python game where you guess the word by entering letters.
+- [*Word Guessing Game*](https://github.com/denizzozupek/denizzozupek-projects/blob/main/Word_Guessing_Game.py):
+  A simple Python game where you guess the word by entering letters.
 
-
-
-- [*Rock Paper Scissors Game*](https://github.com/denizzozupek/denizzozupek-projects/blob/main/Rock_Paper_Scissors.py)
-: A simple Python game where you play Rock, Paper, Scissors against the computer. The game follows the standard rules.
-
-
+- [*Rock Paper Scissors Game*](https://github.com/denizzozupek/denizzozupek-projects/blob/main/Rock_Paper_Scissors.py):
+  A simple Python game where you play Rock, Paper, Scissors against the computer. The game follows the standard rules.
 
 - [*Number Guessing Game*](https://github.com/denizzozupek/denizzozupek-projects/blob/main/Number_Guessing_Game.py):
   A Python game where you guess a randomly generated number, with hints to go higher or lower. Focuses on random number generation and input validation.
 
+- [*Calculator App*](https://github.com/denizzozupek/denizzozupek-projects/blob/main/calculatorapp.py):
+  A basic calculator app built in Python. Supports addition, subtraction, multiplication, and division.
 
+- [*Countdown Timer*](https://github.com/denizzozupek/denizzozupek-projects/blob/main/countdown.py):
+  A basic countdown timer app that takes input in seconds and counts down to zero.
 
 - [*To-Do List*](https://github.com/denizzozupek/denizzozupek-projects/blob/main/To_Do_List.py):
- A simple app to add, remove, and view tasks. Helps practice list manipulation and user input handling.
+  A simple app to add, remove, and view tasks. Helps practice list manipulation and user input handling.
+
+- [*Snake Game*](https://github.com/denizzozupek/denizzozupek-projects/tree/main/snake_game):
+  A classic Snake game built with Python and Pygame. Features smooth gameplay, sound effects, and high score tracking.
 
 
 *Each project is aimed at improving my programming skills, so expect updates and improvements over time.*
