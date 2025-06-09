@@ -36,7 +36,7 @@ I’m Deniz Eren Özüpek, a student and an aspiring Python developer. I’m pas
 - [*Snake Game*](https://github.com/denizzozupek/denizzozupek-projects/tree/main/snake_game):
   A classic Snake game built with Python and Pygame. Features smooth gameplay, sound effects, and high score tracking.
 
-- [*2048 Game*](https://github.com/denizzozupek/denizzozupek-projects/blob/main/2048_game.py):
+- [*2048 Game*](https://github.com/denizzozupek/denizzozupek-projects/blob/main/2048/2048_game.py):
   A version of the 2048 sliding puzzle game implemented in Python using Pygame. Includes tile animations, merging logic, and score tracking.
 
 
