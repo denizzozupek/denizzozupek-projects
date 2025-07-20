@@ -33,6 +33,9 @@ I’m Deniz Eren Özüpek, a student and an aspiring Python developer. I’m pas
 - [*To-Do List*](https://github.com/denizzozupek/denizzozupek-projects/blob/main/To_Do_List.py):
   A simple app to add, remove, and view tasks. Helps practice list manipulation and user input handling.
 
+- [*ToDo App*](https://github.com/denizzozupek/denizzozupek-projects/blob/main/todoapp/ToDoApp.py):
+  A simple ToDo application built in Python. Helps practice file handling, user input, and basic CRUD operations on tasks.
+
 - [*Snake Game*](https://github.com/denizzozupek/denizzozupek-projects/tree/main/snake_game):
   A classic Snake game built with Python and Pygame. Features smooth gameplay, sound effects, and high score tracking.
 
